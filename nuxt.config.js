@@ -49,7 +49,7 @@ export default {
   // https://go.nuxtjs.dev/config-axios
   axios: {
     // https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: 'http://121.41.72.34:2000/'
+    baseURL: 'http://121.41.72.34:2000/swagger-ui/index.html'
   },
 
   // https://go.nuxtjs.dev/pwa

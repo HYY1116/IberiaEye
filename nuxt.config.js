@@ -1,7 +1,7 @@
 export default {
   server: {
-    port: 8000, // default: 3000
-    host: '0.0.0.0' // default: localhost
+    port: 2000, // default: 3000
+    host: '121.41.72.34' // default: localhost
   },
 
   // https://go.nuxtjs.dev/ssr-mode
